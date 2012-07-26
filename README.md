@@ -1,5 +1,7 @@
 # Manifesto
 
+A working draft.
+
 ## Make stuff because it feels good
 - To feel like we did when we were kids, playing with lego or coding on a ZX Spectrum in Basic.
 - To make the ideas in our heads into tangible things.
