@@ -14,8 +14,11 @@ A working draft.
 - Work together to make things better
  
 ## Make friends
-- Build networks & communities
 - Collaborate
+- Communicate
+- Always be contributing
+- Help out
+- Build networks & communities
 
 ## Enjoy what we do
 - Make things we’re proud of
@@ -23,8 +26,9 @@ A working draft.
 - Always be tinkering
 
 ## Provide opportunities
-- Work with organisations doing good things to help them further their work
-- Work with young people who are interested in making things
+- Help others who are doing good things
+- Get people excited about making things (and changing the world)
+- Work with young people
 
 ## Work in public
 - Share our ideas
