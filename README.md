@@ -36,6 +36,7 @@ Competition:
 ## Work in public
 - Share our ideas
 - Be transparent
+- Outward facing
 
 ## Value people
 - Work with people with knowledge and skills that we don’t 
