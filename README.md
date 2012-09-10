@@ -28,7 +28,6 @@ Competition:
 ## Make friends
 - Build networks & communities
 - Collaborate
-- Outward facing
 
 ## Provide opportunities
 - Work with organisations doing good things to help them further their work
