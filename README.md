@@ -24,6 +24,7 @@ A working draft.
 - Make things we’re proud of
 - Work with friends
 - Always be tinkering
+- Don’t become too busy
 
 ## Provide opportunities
 - Help others who are doing good things
