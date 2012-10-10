@@ -12,6 +12,11 @@ A working draft.
 
 ## Collaborate, don’t compete
 - Work together to make things better
+
+## Better, not more
+- Don’t worry about growth, it’s not sustainable and it’s not important
+- Make stuff, iterate, think, make better stuff
+- Buy right, buy once
  
 ## Make friends
 - Collaborate
@@ -38,7 +43,8 @@ A working draft.
 
 ## Value people
 - Work with people with knowledge and skills that we don’t 
-- Work with people who can teach us things
+- Work with people who can teach us things (and remember that we can learn from anyone)
+- No-one should ever have to feel like a cog in a machine
 
 
 
