@@ -1,5 +1,7 @@
 # Fieldwork Manifesto
 
+A few pointers to keep us focussed on making Fieldwork into what we want it to be.
+
 - Keep it simple, do it well
 - Be better, not bigger
 - Have a sense of adventure
